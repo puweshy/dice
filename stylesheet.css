@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(44, 39, 39);
+    text-align: center;
+    color: rgb(121, 197, 6);
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-weight: 900;
+    font-size: 100px;
+}
+.dice{
+    font-family: 'Indie Flower', cursive;
+    font-weight: 300;
+    font-size: 30px
+}
+.img{
+    border-radius: 10%;
+}
